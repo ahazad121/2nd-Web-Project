@@ -1,0 +1,43 @@
+.logo{
+    float: left;
+}
+.name{
+    float: left;
+}
+div{
+    overflow: hidden;
+}
+.left{
+    background-color: aqua;
+    height: 200px;
+    width: 25%;
+    float: left;
+}
+.middle{
+    background-color: blueviolet;
+    height: 200px;
+    width: 50%;
+    float: left;
+}
+.right{
+    background-color: darkgreen;
+    height: 200px;
+    width: 25%;
+    float: right;
+}
+
+.upper{
+    background-color: dimgray;
+    height: 120px;
+    width: 100%;
+}
+.lower{
+    background-color: firebrick;
+    height: 120px;
+    width: 100%;
+}
+footer{
+    background-color: fuchsia;
+    height: 50px;
+    width: 100%;
+}
